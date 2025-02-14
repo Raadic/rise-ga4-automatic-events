@@ -28,6 +28,10 @@ A WordPress plugin that automatically configures and sends essential user intera
 3. Save changes
 4. Events will start tracking automatically
 
+![image](https://github.com/user-attachments/assets/05438e20-2a7c-4b8e-87e5-45935f45e3d8)
+
+
+
 ## Events Tracked
 
 ### Phone Call Tracking
@@ -51,6 +55,9 @@ A WordPress plugin that automatically configures and sends essential user intera
 - Parameters:
   - `email_address`: The clicked email address
   - `page_title`: Title of the page where the click occurred
+
+![image](https://github.com/user-attachments/assets/c356a4d5-3d8b-4396-bf81-7f464c7e8f58)
+
 
 ## Support
 
