@@ -90,8 +90,7 @@ class RiseGA4Events {
                     <h1>GA4 Automatic Events</h1>
                     <p class="rise-utm-header-description">Configure your GA4 tracking settings and event preferences.</p>
                 </div>
-                <img src="https://proclouddevelopment.com.au/test/wp-content/plugins/rise-ga4-events/assets/images/rise-logo.png" alt="Rise Logo" class="rise-utm-logo">
-            </div>
+                <img src="<?php echo plugins_url('assets/images/rise-logo.png', __FILE__); ?>" alt="Rise Logo" class="rise-utm-logo">            </div>
 
             <form method="post" action="options.php">
                 <?php
